@@ -1,11 +1,11 @@
 name: disciplined-vibe-coding
 repo: https://github.com/bmtrnavsky/disciplined-vibe-coding
-sha: f8338d19549d87e6d158396f5f7b2dd26270c397
+sha: 0571870a882587a909c3097b6f6d143b1c6e8f87
 description: "Define/Plan/Build/Verify pipeline with five folded-in practices, for non-engineer builders Disclosure — the optional headless runner `scripts/dvc_run.py` runs the `--build` command you give it and sends the locked spec plus the build's text output files to Google's Gemini API (or the `DVC_GOLDFISH_BASE_URL` you set) using your `DVC_GOLDFISH_API_KEY`; it keeps a run history under `~/.dvc/history`."
 maintainer: bmtrnavsky
 tier: community
 category: general
-version: "0.3.3"
+version: "0.3.4"
 docs_url: https://github.com/bmtrnavsky/disciplined-vibe-coding#readme
 readme: true
 capabilities:
